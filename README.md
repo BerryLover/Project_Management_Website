@@ -10,9 +10,13 @@ B.asset 资源文件。包括项目中使用的图片素材和开源UI组件
 C.page  包括所有前端网页和js文件。特别指出，加载任务页面的逻辑位于/page/JavaScript/tsk_prs.js
 
 D.utility 后端类和数据库访问层
+
   utility/basic  数据库连接，session和cookie的处理
+
   utility/misc   无实质内容，原来规划用于放置一些没有实现的小功能
+
   utility/mysql  数据库访问层
+
   utility/user   各个用户类。是后端的核心业务逻辑所在。
 
 开源组件引用一览：
