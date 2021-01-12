@@ -1,4 +1,9 @@
 # Project_Management_Website
+<p align="center">
+  <img width="460" height="300" src="https://github.com/BerryLover/Project_Management_Website.git/login.jpg">
+</p>
+
+
 #### Developers: *Zitong Su* & *Xiaoyu Zhang* ####
 
 There are four subdirectories under the root directory:
