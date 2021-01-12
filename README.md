@@ -1,5 +1,5 @@
 # Project_Management_Website
-**Developers**: Zitong Su and Xiaoyu Zhang
+#### Developers: Zitong Su & Xiaoyu Zhang ####
 
 There are four subdirectories under the root directory:
 * api<br/>
@@ -10,11 +10,17 @@ This directory provides resource files, such as picture materials and open sourc
 Front-end .html files and .js files are included here.<br/>
 * utility<br/>
 Back-end classes and database access.<br/>
-    * utility/basic
-    * utility/misc
-    * utility/mysql
-    * utility/user
+    * utility/basic: 
+    handle session, cookie, and database linkages.
+    * utility/misc: 
+    no substantial content.
+    * utility/mysql: 
+    database access layer.
+    * utility/user: 
+    user classes.
 
+
+---
 开发成员：苏子童（前端开发，过程文档撰写） 张笑语（后端开发，过程文档撰写） 高宇晨（采访记录） 杨绍然（采访记录） 陈奕帆（项目监督）
 
 根目录下共有四个文件夹，每个文件夹的主要内容是：
