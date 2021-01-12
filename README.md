@@ -15,7 +15,9 @@ Back-end classes and database access.<br/>
     * utility/mysql: database access layer.
     * utility/user: user classes.<br/><br/></ul>
 </ul>
-_Some open source components used in this project are listed as below:_ <br/>
+
+*Some open source components used in this project are listed as below:*
+<br/>
 jQuery<br/>
 Bootstrap<br/>
 Bootstrap-datetimepicker<br/>
@@ -26,7 +28,7 @@ qcloud-sdk<br/><br/><br/>
 
 
 ***
-开发成员：苏子童（前端开发，过程文档撰写） 张笑语（后端开发，过程文档撰写） 高宇晨（采访记录） 杨绍然（采访记录） 陈奕帆（项目监督）
+主要开发人员：苏子童 & 张笑语
 
 根目录下共有四个文件夹，每个文件夹的主要内容是：
 
