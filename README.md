@@ -1,6 +1,6 @@
 # Project_Management_Website
 <p align="center">
-  <img width="460" height="300" src="./login.jpg">
+  <img src="./login.jpg">
 </p>
 
 
