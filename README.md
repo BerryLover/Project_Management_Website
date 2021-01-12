@@ -13,8 +13,8 @@ Back-end classes and database access.<br/>
     * utility/basic: handle session, cookie, and database linkages.
     * utility/misc: no substantial content.
     * utility/mysql: database access layer.
-    * utility/user: user classes.
-<br/><br/></ul>
+    * utility/user: user classes.<br/><br/></ul>
+</ul>
 Some open source components used in this project is listed as below:<br/>
 jQuery<br/>
 Bootstrap<br/>
@@ -22,7 +22,7 @@ Bootstrap-datetimepicker<br/>
 flatui<br/>
 Datatables<br/>
 Echarts<br/>
-qcloud-sdk<br/>
+qcloud-sdk<br/><br/><br/>
 
 
 ***
