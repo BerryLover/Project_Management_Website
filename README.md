@@ -15,7 +15,7 @@ Back-end classes and database access.<br/>
     * utility/mysql: database access layer.
     * utility/user: user classes.<br/><br/></ul>
 </ul>
-*Some open source components used in this project are listed as below:*<br/>
+_Some open source components used in this project are listed as below:_ <br/>
 jQuery<br/>
 Bootstrap<br/>
 Bootstrap-datetimepicker<br/>
