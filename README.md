@@ -1,6 +1,6 @@
 # Project_Management_Website
 <p align="center">
-  <img width="460" height="300" src="https://github.com/BerryLover/Project_Management_Website.git/login.jpg">
+  <img width="460" height="300" src="https://github.com/BerryLover/Project_Management_Website/login.jpg">
 </p>
 
 
