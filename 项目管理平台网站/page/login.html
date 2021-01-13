@@ -66,7 +66,7 @@ li a:hover {
 .jumbotron {
 	margin-top: 75px;
 	margin-bottom: 0px;
-	background-image: url(/asset/pic/login_page_pic.jpg);
+	background-image: url(../asset/pic/login_page_pic.jpg);
 	background-position: 0% 25%;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -76,6 +76,8 @@ li a:hover {
 </style>
 <title>登录</title>
 </head>
+	
+	
 <body>
 <ul class="navbar">
   <li><a class="active" href="">回到首页</a></li>
@@ -89,24 +91,24 @@ li a:hover {
 	 <div style="float: right">
     <h2>登录项目管理</h2>
     <div class="block">
-      <form style="font:微软雅黑;margin:0px auto">
+      <form style="font:微软雅黑; margin:0px auto">
+<br>
         <label for="username" class="control-label">账号:</label>
         <input class="form-control" type="text" id="username" />
-
+<br><br>
         <label for="password" class="control-label">密码:</label>
         <input  class="form-control" type="password" id="password" />
 <br>
-		  <label for="rem" class="control-label">记住登录状态:</label>
-		  <div class="bootstrap-switch-square" style="display: inline-block;height:10px">
-   <input type="checkbox" data-on-color="info" data-toggle="switch" name="rem" id="s1" />
-		  </div>
-
-
 
 
         <input type="button" value="登 录" class="btn btn-primary" id="btn_login" style="margin:15px 40px;padding:5px 16px"/>
         &nbsp;&nbsp;
         <input type="button" value="注 册" class="btn btn-info" id="btn_register" style="margin:15px -30px;padding:5px 16px" />
+		  <br>
+		  <label for="rem" class="control-label">记住登录状态:</label>
+		  <div class="bootstrap-switch-square" style="display: inline-block;height:10px">
+   			<input type="checkbox" data-on-color="info" data-toggle="switch" name="rem" id="s1" />
+		  </div>
       </form>
     </div>
 		 </div>
